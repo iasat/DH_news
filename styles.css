@@ -1,0 +1,71 @@
+body{
+font-family: 'Rajdhani', sans-serif;
+}
+
+section{
+   margin-left:30%
+}
+
+#jornal {color:#EC183F}
+
+h1{
+font-weight: 700;
+font-weight: bold;
+text-align: left;
+}
+
+h2{
+    text-align-last: left;
+    font-weight: bold;
+    font-weight: 700;
+    text-transform: none;
+}
+
+h3{
+    text-align-last: left;
+    font-weight: 700;   
+    font-size:15px; 
+    text-transform: none;
+}
+    
+p{
+    text-align: justify;
+    line-height: 20px;
+}
+
+li {
+    text-align: justify;
+    line-height: 20px;
+}
+
+/* hr{
+    width:10%;
+    height:0.01px;
+    color:lightblue;
+    background-color:white"
+} */
+
+.linhaCinza{
+    margin-right: 40%;
+    margin-top: 5%;
+    text-align: left;
+    column-width: auto;
+    height:0.10px;
+    color:lightblue;
+    }
+    
+#redes{
+    margin-left:20%;
+} 
+
+a{
+    text-decoration:none;
+ }
+
+footer#redes img{
+    width:30px;
+    height:30px;
+    margin-top:10px;
+    margin-bottom:0px;
+    margin-left:20px
+}
